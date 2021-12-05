@@ -94,6 +94,7 @@ select {
 }
 
 #header_menu {
+	display:flex;
 	width: 57%;
 	padding-top: 17px;
 	padding-left: 3%;
